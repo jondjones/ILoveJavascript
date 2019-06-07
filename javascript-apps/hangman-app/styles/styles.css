@@ -1,0 +1,75 @@
+* {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+}
+
+ html {
+     font-size: 62.5%;
+}
+
+ body {
+     background: #2B292E;
+     color: #fafafa;
+     font-family: Helvetica, Arial, sans-serif;
+     min-height: 100vh;
+}
+
+#error-message {
+    color: #cc7474;
+}
+
+.hangman__content {
+     font-weight: 500;
+     margin-top: 2rem;
+     margin-bottom: 2rem;
+     display: block;
+     font-size: 2rem;
+}
+
+.hangman__content span {
+    font-weight: 300;
+}
+
+.hangman__game {
+    font-weight: 600;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    font-size: 2rem;
+}
+
+.hangman__game span {
+    padding-right: 2rem;
+}
+
+.hangman__footer {
+    margin-top: .8rem;
+    display: flex;
+}
+
+.hangman__heading {
+    font-size: 5rem;
+}
+
+.container {
+    margin-top: 20vh;
+    margin-left: 20%;
+    display: block;
+    justify-content: center;
+}
+
+ .button {
+     background: #7044a0;
+     border: none;
+     border-bottom: 2px solid #603a88;
+     cursor: pointer;
+     color: white;
+     font-size: 1.4rem;
+     font-weight: 300;
+     padding: .8rem;
+     transition: background .3s ease, color .3s ease;
+}
+
+ .button:hover {
+     background: #5F3A87;
+}

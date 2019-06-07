@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Hangman</title>
+        <link href="/styles/styles.css" rel="stylesheet">
+        <link href="/images/favicon.png" rel="icon">
+    </head>
+    <body>
+        <div class="container">
+            <div class="hangman">
+                <h1 class="hangman__heading">
+                    Hangman
+                </h1>
+                <div class="hangman__content">
+                    <p>
+                    Guesses Left: <span id="guesses-left"></span>
+                    </p>
+                    <p>
+                    Previous Guesses: <span id="previous-guesses"></span>
+                    </p>
+                    <p>
+                        <span id="error-message"></span>
+                    </p>
+                </div>
+                 <div class="hangman__game">
+                    <span id="output" class="puzzle"></span>
+                </div>
+                <div class="hangman_footer">
+                    <button id="reset-game" class="button">Reset Game</button>
+                </div>
+            </div>
+        </div>
+        <script src="/scripts/request.js" ></script>
+        <script src="/scripts/hangman.js" ></script>
+        <script src="/scripts/app.js" ></script>
+    </body>
+</html>

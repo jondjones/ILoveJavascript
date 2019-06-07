@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+            <title>Notes App</title>
+            <link href="/images/favicon.png" rel="icon">
+            <link href="/styles/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <header class="header">
+            <div class="container">
+                <h1 class="header__title">Notes App</h1>
+                <h2 class="header__subtitle">Take notes and never forget</h2>
+            </div>
+        </header>
+        <div class="actions">
+             <div>You have <span id="num-of-todo"></span> todo(s)</div>
+                <div class="actions__container">
+                        <input type="text" placeholder="Search todo" id="search-todos" class="input"  />
+                        <select name="filter-todos" id="filter-todos" class="dropdown">
+                            <option value="AZ">A-Z</option>
+                            <option value="ZA">Z-A</option>
+                            <option value="completed">Completed</option>
+                            <option value="added">Date Added</option>
+                            <option value="edited">Date Edited</option>
+                        </select>
+                </div>
+        </div>
+        <div class="container">
+            <ul id="todos">
+            </ul>
+        </div>   
+        <div class="container footer"> 
+            <a href="edit.html" class="button">Create New Note</a>
+            <button id='clear-todo' class="button">Clear All todos</button>
+        </div> 
+        <script src="/js/uuid.js"></script>
+        <script src="/js/moment.js"></script>
+        <script src='/js/store.js'> </script>  
+        <script src='/js/todo-data.js'> </script>  
+        <script src='/js/todo-functions.js'> </script>  
+        <script src='/js/todo-app.js'></script>
+    </body>
+</html>

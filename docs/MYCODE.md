@@ -3,17 +3,17 @@
 Below gives an overview of all the repos that you can find on my Github account
 
 ## Javacscript Projects
--   [Javascript Playground](https://github.com/jondjones/Javascript)
+-   [Todo App](../javascript-apps/todo-app) -
+-   [Hangman App](../javascript-apps/todo-app) -
 
 ## React Projects
--   [List Of Sample React Apps](https://github.com/jondjones/React)
--   [Classic Todo List Example](https://github.com/jondjones/React.AdminPortalApp)
--   [List of useful sample code and packages that can be used with React.js](https://github.com/jondjones/JonDJones-ReactSampleSite)
+-   [Todo App](Website../react/todo-app) -
+-   [Portfolio ](../react/portfolio)
 
 ## Node Projects
 -   [Node Examples](https://github.com/jondjones/Node)
 
-## My NPM
+## My NPM Packages
 -   [https-status-lookup](https://github.com/jondjones/https-status-lookup)
 -   [js-number-formatter](https://github.com/jondjones/js-number-formatter)
 

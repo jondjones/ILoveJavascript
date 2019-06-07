@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+            <title>Notes App</title>
+            <link href="/images/favicon.png" rel="icon">
+            <link href="/styles/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <header class="header">
+            <div class="container">
+                <h1 class="header__title">Notes App</h1>
+                <h2 class="header__subtitle">Take notes and never forget</h2>
+            </div>
+        </header>
+        <div class="actions">
+                <div class="actions__container actions__container--spaced">
+                        <a href='/index.html' >Home</a>
+                </div>
+            </div>
+            <div class="container">
+                    <form id="todo-form">
+                            <input type="hidden" name="todo-id" id="todo-id" class="title-input" />
+                            <input type="text" placeholder="Add todo" name="newtodo" id="todo-text"  />
+                            <button id='todo-form-button' class="button button--secondary">Add todo</button>
+                    </form>  
+            </div>
+
+        <script src="/js/uuid.js"></script>
+        <script src="/js/moment.js"></script>
+        <script src='/js/store.js'> </script>  
+        <script src='/js/todo-data.js'> </script>  
+        <script src='/js/todo-functions.js'> </script>  
+        <script src='/js/todo-edit.js'></script>
+    </body>
+</html>

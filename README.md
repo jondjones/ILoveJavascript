@@ -2,6 +2,8 @@
 
 As someone who writes code most days - who is also very forgetful - this repo is an on-going colloboration of tutorials, packages, meet-ups amd ideas of all things Javascript.  The aim of this project is to help web developers become true software crafts people.  Why waste hours trying to remember that website you once found randomly Googling.  This area is a on-stop shop to get you set-up and building applications. 
 
+~Don't forget to star this app as it's updated frequently~
+
 ## Getting Started
 
 -   [Developer Set-up](docs/DEVELOPERSETUP.md)

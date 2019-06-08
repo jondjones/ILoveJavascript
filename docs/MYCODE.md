@@ -8,7 +8,9 @@ Below gives an overview of all the repos that you can find on my Github account
 
 ## React Projects
 -   [Todo App](Website../react/todo-app) -
--   [Portfolio ](../react/portfolio)
+-   [Portfolio](../react/portfolio)
+-   [Expense Tracker Website](https://github.com/jondjones/react-expense-tracker-website) Allow users to add/edit/remove expenses.  Integrates with firebase
+-   [React Sample Website](https://github.com/jondjones/react-sample-website)
 
 ## Node Projects
 -   [Node Examples](https://github.com/jondjones/Node)

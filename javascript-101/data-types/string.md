@@ -39,5 +39,7 @@ console.log('city=' + city + ' country=' + country);
 ### Resources
 -   [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 -   [Value Type Vs Reference Type](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

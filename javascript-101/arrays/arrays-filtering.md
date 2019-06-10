@@ -1,3 +1,5 @@
+# Filter()
+
 Filtering items out of an array
 
 ```javascript
@@ -52,5 +54,7 @@ console.log('findIndex on a match = ', index);
 ### Resources
 -   [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) 
 -   [Filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

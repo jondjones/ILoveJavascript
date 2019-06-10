@@ -96,5 +96,7 @@ console.log('first', first);
 console.log('second', second);
 console.log('others', others);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

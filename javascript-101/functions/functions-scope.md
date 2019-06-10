@@ -33,5 +33,7 @@ console.log(`result=${result}`);
 ```
 ### Resources
 -   [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

@@ -50,5 +50,7 @@ mySubClass.getBaseProperty();
 -   [Constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#Constructor)
 -   [New](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
 -   [Prototype](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

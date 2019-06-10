@@ -1,5 +1,25 @@
 
-## React Documentation
+# React Tutorials
+
+## 📖 Interesting Reads
+
+-   [Debugging Javascript in Chrome](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+-   [Enzyme Cheetsheet](https://devhints.io/enzyme)
+-   [Higher Order Functions](https://en.wikipedia.org/wiki/Higher-order_function)
+-   [Intro To Hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
+-   [Jest Cheatsheet](https://devhints.io/jest)
+-   [Hot Reloading with Time Travel by Dan Abramov](https://www.youtube.com/watch?v=xsSnOQynTHs)
+-   [How to Speed Up Learning as a Software Developer](https://simpleprogrammer.com/speed-up-learning-software-developer/)
+-   [React Hooks by Dan Abramov](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+-   [Testing React Apps](https://jestjs.io/docs/en/tutorial-react)
+-   [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
+
+## 📹 Interesting Videos
+-   [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)
+-   :star: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+-   [React: CSS in your JS by Christopher Chedeau](https://vimeo.com/116209150)
+
+## 📖 React Documentation
 
 -   [React Component](https://reactjs.org/docs/react-component.html)  
 -   [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
@@ -20,26 +40,10 @@
 -   [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 -   [Synthetic Events](https://reactjs.org/docs/events.html)
 
-## Interesting Reads
-
--   [Debugging Javascript in Chrome](https://developers.google.com/web/tools/chrome-devtools/javascript/)
--   [Enzyme Cheetsheet](https://devhints.io/enzyme)
--   [Higher Order Functions](https://en.wikipedia.org/wiki/Higher-order_function)
--   [Intro To Hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
--   [Jest Cheatsheet](https://devhints.io/jest)
--   [Hot Reloading with Time Travel by Dan Abramov](https://www.youtube.com/watch?v=xsSnOQynTHs)
--   [How to Speed Up Learning as a Software Developer](https://simpleprogrammer.com/speed-up-learning-software-developer/)
--   [React Hooks by Dan Abramov](https://www.youtube.com/watch?v=dpw9EHDh2bM)
--   [Testing React Apps](https://jestjs.io/docs/en/tutorial-react)
--   [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
-
-## Interesting Videos
--   [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)
-
-##Why React?
+## 📖 Why React?
 
 -   [Getting Started With React](https://reactjs.org/docs/getting-started.html)
 -   [10 Reasons why I moved from Angular to React](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/)
 
 ---
-[BACK](../README.md)
+[:arrow_left: BACK](../README.md)

@@ -46,5 +46,7 @@ const exampleOne = privatePropertyExample();
 exampleOne.increment();
 console.log(exampleOne.get());
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

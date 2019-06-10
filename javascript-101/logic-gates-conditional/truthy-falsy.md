@@ -62,5 +62,7 @@ else {
     console.log('false = falsy value');
 }
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

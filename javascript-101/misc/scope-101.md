@@ -126,5 +126,7 @@ catch (e) {
 ```
 ### Resources
 -   [Scope](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

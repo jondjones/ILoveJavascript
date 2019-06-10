@@ -59,5 +59,7 @@ console.log();
 ### Resources
 -   [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) 
 -   [ForEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

@@ -51,9 +51,12 @@ getPromise(2).then((data) => {
     });
 ```
 This snippet of code is much easier to read, modify and maintain.  Chaining promosie alows us to create complicated sync code, simple!
----
+
 ### Resources
 -   [Async]https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)  
 -   [Async/Await](https://javascript.info/async-await)  
 -   [Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
-[BACK](../README.md)
+
+---
+
+:arrow_left: [BACK](../README.md)

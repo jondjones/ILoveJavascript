@@ -10,5 +10,7 @@ Stirct-mode will enforce stricter JS parsing by the compiler.  You should use th
 asdf = 'error';
 ```
 You should use strict-mode to prevent accidental global variables from being created
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

@@ -62,5 +62,7 @@ myObject.Example();
 ```
 ### Resources
 -   [Prototype](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

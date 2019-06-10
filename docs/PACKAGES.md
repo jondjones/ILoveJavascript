@@ -28,4 +28,4 @@
 -   [Yarn](https://yarnpkg.com/en/docs)  
 -   [Essential React Libraries in 2018](https://www.robinwieruch.de/essential-react-libraries-framework)  
 ---
-[BACK](../README.md)
+[:arrow_left: BACK](../README.md)

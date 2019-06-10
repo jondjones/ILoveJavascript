@@ -66,5 +66,7 @@ console.log(exampleThree.checkAvailability(3));
 ### Resources
 -   [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 -   [Object Initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

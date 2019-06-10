@@ -30,6 +30,7 @@ console.log(square(3));
 ```
 ### Resources
 -   [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
--   [Default Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

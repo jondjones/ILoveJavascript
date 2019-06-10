@@ -28,5 +28,7 @@ console.log(percentage);
 -   [Primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
 -   [Random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 -   [Value Type Vs Reference Type](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

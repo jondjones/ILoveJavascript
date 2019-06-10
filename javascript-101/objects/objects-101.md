@@ -28,4 +28,5 @@ console.log(`Changed Value=${myObjectWithProps.firstName}`);
 -   [Object Initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
 
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

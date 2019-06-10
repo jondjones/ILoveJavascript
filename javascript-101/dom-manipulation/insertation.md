@@ -6,5 +6,7 @@ Adding an new element dyncamially to the page
 const newElement = document.createElement('p');
 document.querySelector('body').appendChild(newElement);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

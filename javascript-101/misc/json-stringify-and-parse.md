@@ -20,5 +20,7 @@ const myObjects = {
 const toObject = JSON.parse(asString);
 console.log(toObject);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

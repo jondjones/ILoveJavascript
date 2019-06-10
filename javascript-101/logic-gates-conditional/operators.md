@@ -57,5 +57,7 @@ console.log('isSenior = ' + isSenior);
 ```
 ### Resources
 -   [Double Equals Vs Triple Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

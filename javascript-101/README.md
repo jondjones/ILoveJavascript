@@ -15,8 +15,10 @@
 
 -   [Arrays 101](./arrays/arrays-101.md)
 -   [Adding and removing items](./arrays/array-adding-removing.md)
--   [Filtering](./arrays/arrays-filtering)
--   [Foreach and For](./arrays/arrays-for)
+-   [Filtering](./arrays/arrays-filtering.md)
+-   [Foreach and For](./arrays/arrays-for.md)
+-   [Map & Reduce](./arrays/arrays-map-reduce.md)
+-   [Misc Methods](./arrays/arrays-methods.md)
 
 ### Async
 
@@ -42,6 +44,10 @@
 -   [Inserting](./dom-manipulation/insertation.md)
 -   [Local Storage](./dom-manipulation/local-storage.md)
 -   [Selection](./dom-manipulation/selection.md)
+
+### Functional Programming
+
+-   [FP Toolkit](./functional-programming/examples.md)  
 
 ### Functions
 -   [Functions 101](./dom-manipulation/functions-101.md)
@@ -75,6 +81,12 @@
 -   [Object References](./objects/object-references.md)
 -   [Objects And Functions](./objects/objects-and-functions.md)
 
+### Packages
+
+-   [Axios](./packages/axios.md)
+-   [Isomorphic Fetch](./packages/isomorphic-fetch.md)
+-   [Isomorphic Unfetch](./packages/isomorphic-unfetch.md)
+
 ### Prototype And Object Oriented Design
 
 -   [Classes & Subclasses](./protoype-and-oo/classes-and-subclasses.md)
@@ -84,3 +96,7 @@
 -   [Prototype Chain](./protoype-and-oo/primitive-prototype-chain.md)
 -   [Prototype Declartion](./protoype-and-oo/prototype-declartion.md)
 -   [Public & Private properties](./protoype-and-oo/public-and-private-properties.md)
+
+---
+
+:arrow_left: [BACK](../README.md)

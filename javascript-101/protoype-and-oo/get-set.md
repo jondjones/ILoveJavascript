@@ -30,5 +30,7 @@ myObject.myProperty = 'setting';
 console.log(myObject.myProperty);
 console.log(myObject.innerProperty);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

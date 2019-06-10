@@ -31,5 +31,7 @@ Removing an element from DOM
 const h1 = document.querySelector('.heading');
 h1.remove();
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

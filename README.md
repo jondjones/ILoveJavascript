@@ -1,27 +1,35 @@
-# ILOVEJAVASCRIPT - By JONDJONES.COM
+# #ILOVEJAVASCRIPT :heart_eyes: - By JONDJONES.COM 
 
-As someone who writes code most days - who is also very forgetful - this repo is an on-going colloboration of tutorials, packages, meet-ups amd ideas of all things Javascript.  The aim of this project is to help web developers become true software crafts people.  Why waste hours trying to remember that website you once found randomly Googling.  This area is a on-stop shop to get you set-up and building applications. 
+\#ILOVEJAVASCRIPT is an on-going colloboration of tutorials, packages, meet-ups amd ideas of all things Javascript.  The aim of this project is to help web developers become true software crafts people.  Why waste hours trying to remember that website you once found randomly Googling.  This area is a on-stop shop to get you set-up and building applications. 
 
-~Don't forget to star this app as it's updated frequently~
+:star: **Don't forget to star this app as it's updated frequently** :star:
 
-## Getting Started
+This is an open-source repo.  If you would like to add something or correct a mistake, please open a PR.
+
+## :rocket: Getting Started
 
 -   [Developer Set-up](docs/DEVELOPERSETUP.md)
 -   [My Sample Code](docs/MYCODE.md)
 -   [Things I  Use](docs/THINGSIUSE.md)
 
-## Links
+## :link: Useful Links
 
 -   [Cheatsheet](docs/CHEATSHEET.md) - A list of useful cheatsheets  
 -   [Packages](docs/PACKAGES.md) - A list of NPM packages I recommend checking out  
 -   [Technology](docs/TECHNOLOGY.md) - A list of useful Javascript technologies you should check out
 -   [Web Developer Reources](docs/WEBDEVRESOURCES.md) - A list of useful resource for building websites
 
+---
 ## Javascript 101
 
--   [Useful Javascript Tutorials](docs/JAVASCRIPT.md) - A list of useful Javascript tutorials  
+### 📖 Tutorials
 
-### Arrays
+-   [Javascript Dictionary](docs/JavascriptDictionary.md) - A list of common Javascript phrases explained with code examples
+-   [Useful Tutorials](docs/JAVASCRIPT.md) - A list of useful Javascript tutorials  
+
+### :floppy_disk: Language Snippets
+
+#### Arrays
 
 [Arrays 101](./javascript-101/arrays/arrays-101.md) -
 [Adding and removing items](./javascript-101/arrays/array-adding-removing.md) -
@@ -58,7 +66,7 @@ As someone who writes code most days - who is also very forgetful - this repo is
 [Functions Scope](./javascript-101/dom-manipulation/functions-101.md) - 
 [Functions With Arguments](./javascript-101/dom-manipulation/functions-101.md)
 
-#### logic Gates & Conditional Operators
+#### Logic Gates & Conditional Operators
 [AND - OR - NOT](./javascript-101/logic-gates-conditional/and-or-not-statements.md) - 
 [DOM Manipluation](./javascript-101/logic-gates-conditional/dom-manipulation.md) - 
 [IF - ELSE](./javascript-101/logic-gates-conditional/if-else-statements) - 
@@ -94,29 +102,58 @@ As someone who writes code most days - who is also very forgetful - this repo is
 [Prototype Declartion](./javascript-101/protoype-and-oo/prototype-declartion.md) - 
 [Public & Private properties](./javascript-101/protoype-and-oo/public-and-private-properties.md)
 
+### :floppy_disk: Code Samples
+
+#### Functional Programming
+
+[FP Toolkit](./javascript-101/functional-programming/examples.md)  
+
 #### Algorithims
 
 [Algorithims](./javascript-101/algorithims/algorithims.md) -
+[Binary Tree](./javascript-101/algorithims/binary-tree.md) -
 [GetCountries()](./javascript-101/api/get-country.md) -
 [GetIPLoction()](./javascript-101/api/Get-IP-Loction.md)
 
-## React 101
+---
+[:arrow_up: BACK TO TOP](#getting-started)
 
+---
+
+## React
+
+### 📖 Tutorials
 
 -   [React Tutorials](docs/REACT-TUTORIALS.md) - A list of useful React tutorials  
 
-# React 101
+### :floppy_disk: Code Samples
 
 This project contains a number of single page applications written in React JS and Redux. Apps contain examples of using things like Redux, Webpack, Babel, Yarn, ES6/ES2015 Javascript syntax
 
-### Tests
+#### Tests
 
 [Writing A Test](./react-101/tests/writing-a-test.md)
 
-### Examples
+#### Examples
 
 [Hello World](./react-101/examples/hello-world.md) -
 [Creating a Higher Order Component](./react-101/examples/hoc.md)  -
 [Creating a Filterable Component ](./react-101/examples/filter-component.md) -
 [JSON Form](./react-101/examples/json-form.md) -
 [Redux 101](./react-101/examples/redux-101.md)
+
+---
+[:arrow_up: BACK TO TOP](#getting-started)
+
+## Contributing
+Open an [issue](https://github.com/jondjones/ILoveJavascript/issues) or a [pull request](https://github.com/jondjones/ILoveJavascript) to suggest changes or additions.
+
+## Authors
+[Jon D Jones](http://www.jondjones.com)
+
+## License
+![Creative Commons Licence](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)   
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+
+⬆ back to top
+---

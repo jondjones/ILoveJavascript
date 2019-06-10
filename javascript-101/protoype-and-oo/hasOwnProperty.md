@@ -48,5 +48,7 @@ const person = new MyConstructorFunction();
 console.log('Calling __proto__.__proto__ on a declared object will show the global js object', person.__proto__.__proto__);
 console.log('Calling __proto__.__proto__.__proto__ as the global object is always base', person.__proto__.__proto__.__proto__);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

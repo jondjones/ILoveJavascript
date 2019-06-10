@@ -30,5 +30,7 @@ Watch changes in local storage to sync b rowser tabs
 window.addEventListener('storage', function (e) {
 })
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

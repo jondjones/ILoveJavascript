@@ -24,4 +24,5 @@ console.log('Kelvin = ' + Math.round(kelvin * 100) / 100);
 ```
 
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

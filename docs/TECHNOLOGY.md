@@ -59,4 +59,4 @@ Orchestrating, deploying and scaling out containers
 -   **Helm** - [https://kubernetes.io/](Orchestration)  
 Similar to [Yarn](https://yarnpkg.com) however Helm is package management
 ---
-[BACK](../README.md)
+:arrow_left: [BACK](../README.md)

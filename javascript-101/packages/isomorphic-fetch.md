@@ -1,7 +1,7 @@
+# Isomorphic Fetch
 
-# GetCounty()
+Isomorphic Fetch
 
-Get Countries from restcountries.eu
 ```javascript
 var fetch = require("isomorphic-fetch");
 
@@ -22,9 +22,6 @@ getCountry('GB').then((data) => {
     console.log(e); 
 });
 ```
-### Resources
--   [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 ---
-
-:arrow_left: [BACK](../README.md)
+[:arrow_left: BACK](../README.md)

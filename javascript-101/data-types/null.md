@@ -17,5 +17,7 @@ if (name === null) {
 ### Resources
 -   [Primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
 -   [Value Type Vs Reference Type](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

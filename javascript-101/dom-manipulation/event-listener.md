@@ -221,5 +221,7 @@ document.querySelector('button').addEventListener('wheel', (e) => {
     console.log(e);
 });
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

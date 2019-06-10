@@ -26,5 +26,7 @@ if (temp <= 0 || temp >= 150) {
     console.log("It's crap 'outside");
 }
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

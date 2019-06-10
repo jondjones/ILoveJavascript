@@ -38,5 +38,7 @@ if (age <= 7) {
     console.log('Is Adult');     
 }
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

@@ -95,5 +95,7 @@ console.log(exampleOne.get());
 // Throws undefinied as we don not have access to count
 console.log(exampleOne.count);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

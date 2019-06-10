@@ -42,5 +42,7 @@ console.log('Array type = ', typeof array);
 const object = {};
 console.log('Object type = ', typeof object);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

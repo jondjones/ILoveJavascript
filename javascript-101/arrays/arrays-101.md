@@ -34,5 +34,7 @@ console.log(`Undefinied Item = ${notes[100]}`);
 ```
 ### Resources
 -   [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) 
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

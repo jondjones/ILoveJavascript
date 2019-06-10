@@ -1,4 +1,4 @@
-
+# Adding and removing items from an arry
 
 Adding a note to end of array
 ```javascript
@@ -61,5 +61,7 @@ console.log('Note array after splice() with an add', notes);
 
 ### Resources
 -   [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)  
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

@@ -21,5 +21,7 @@ getLocation().then((data) => {
 ```
 ### Resources
 -   [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

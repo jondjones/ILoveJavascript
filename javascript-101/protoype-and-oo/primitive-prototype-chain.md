@@ -70,5 +70,7 @@ const object = {};
 console.log('object => ', object);
 console.log(`${typeof object} =>`, object.__proto__);
 ```
+
 ---
-[BACK](../README.md)
+
+:arrow_left: [BACK](../README.md)

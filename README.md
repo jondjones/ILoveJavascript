@@ -1,159 +1,68 @@
 # #ILOVEJAVASCRIPT :heart_eyes: - By JONDJONES.COM 
 
-\#ILOVEJAVASCRIPT is an on-going colloboration of tutorials, packages, meet-ups amd ideas of all things Javascript.  The aim of this project is to help web developers become true software crafts people.  Why waste hours trying to remember that website you once found randomly Googling.  This area is a on-stop shop to get you set-up and building applications. 
+\#ILOVEJAVASCRIPT is an on-going collaboration of tutorials, packages, meet-ups and ideas of all things Javascript.  The aim of this project is to help web developers become true software crafts people.  Why waste hours trying to remember that website you once found randomly Googling.  This area is a on-stop shop to get you set-up and building applications. 
 
 :star: **Don't forget to star this app as it's updated frequently** :star:
 
 This is an open-source repo.  If you would like to add something or correct a mistake, please open a PR.
 
-## :rocket: Getting Started
+# :rocket: #ILOVEJAVASCRIPT Book :rocket:
 
--   [Developer Set-up](docs/DEVELOPERSETUP.md)
--   [My Sample Code](docs/MYCODE.md)
--   [Things I  Use](docs/THINGSIUSE.md)
+## Download
 
-## :link: Useful Links
+-   [#ILOVEJAVASCRIPT.epub](build/epub/book.epub)
+-   [#ILOVEJAVASCRIPT.pdf](build/pdf/book.pdf)
 
--   [Cheatsheet](docs/CHEATSHEET.md) - A list of useful cheatsheets  
--   [Packages](docs/PACKAGES.md) - A list of NPM packages I recommend checking out  
--   [Technology](docs/TECHNOLOGY.md) - A list of useful Javascript technologies you should check out
--   [Web Developer Reources](docs/WEBDEVRESOURCES.md) - A list of useful resource for building websites
+## Online Version 
 
----
-## Javascript 101
+[Introduction - ILOVEJavascript](./book/ILOVEJAVSCRIPT.md)  
+[Chapter 01 - Datatypes](./javascript-101/01-data-types.md)  
+[Chapter 02 - Logic Gate and Condition Logic](./javascript-101/02-logic-gates-conditional.md)  
+[Chapter 03 - Functions](./javascript-101/03-functions.md)  
+[Chapter 04 - Objects](./javascript-101/04-objects-101.md)  
+[Chapter 05 - Arrays](./javascript-101/05-arrays.md)  
+[Chapter 06 - ES6](./javascript-101/06-es6.md)  
+[Chapter 07 - DOM Manipulation](./javascript-101/07-dom-manipulation.md)  
+[Chapter 08 - Async](./javascript-101/08-async.md)  
+[Chapter 09 - Prototype](./javascript-101/09-Prototype.md)  
+[Chapter 10 - Functional Programming](./javascript-101/10-functional-programming.md) 
+[Chapter 11 - Design Patterns](./javascript-101/11-design-patterns.md) 
+[Chapter 12 - Misc](./javascript-101/12-misc.md)  
+[Chapter 13 - Misc Code Examples](./javascript-101/13-examples.md)  
+[Appendix 1 - Resources](./book/RESOURCES.md)  
+[Appendix 2 - My Dev Set-up](./book/APPENDIX.md)  
 
-### 📖 Tutorials
+# Contributing
 
--   [Javascript Dictionary](docs/JavascriptDictionary.md) - A list of common Javascript phrases explained with code examples
--   [Useful Tutorials](docs/JAVASCRIPT.md) - A list of useful Javascript tutorials  
+:construction: Open an [issue](https://github.com/jondjones/ILoveJavascript/issues) or a [pull request](https://github.com/jondjones/ILoveJavascript) to suggest changes or additions.  :construction: 
 
-### :floppy_disk: Language Snippets
+If you like the content you find here, and want to support more content like it and you'd like to contribute financially towards the effort (or any of my other, I do have a patreon that I would always appreciate your generosity towards.
 
-#### Arrays
+<a href="https://www.patreon.com/jondjones">![patreon.com/jondjones](./images/patreon.png)</a>
 
-[Arrays 101](./javascript-101/arrays/arrays-101.md) -
-[Adding and removing items](./javascript-101/arrays/array-adding-removing.md) -
-[Filtering](./javascript-101/arrays/arrays-filtering) -
-[Foreach and For](./javascript-101/arrays/arrays-for)
+# Build The Book
 
-#### Async
+You can build the book yourself by running these commands:
 
-[Async Example](./javascript-101/async/async-example.md) -
-[Await](./javascript-101/async/await.md) -
-[Callbacks](./javascript-101/async/callbacks.md) -
-[Fetch](./javascript-101/async/fetch.md) -
-[Promise Chaining](./javascript-101/async/promise-chaining.md) -
-[Promise and Callbacks](./javascript-101/async/promises-and-callbacks.md)
+```sh
+make
+```
 
-#### Datatypes
+```sh
+make pdf
+make epub
+```
 
-[Boolean](./javascript-101/data-types/boolean.md) -
-[Date](./javascript-101/data-types/date.md) -
-[Null](./javascript-101/data-types/null.md) -
-[Number](./javascript-101/data-types/null.md) -
-[String](./javascript-101/data-types/string.md) -
-[Undefinied](./javascript-101/data-types/undefinied.md) -
-[Var, let and const](./javascript-101/data-types/uvar-let-const.md)
+The generated files will be placed in *build/*.
 
-#### Dom Manipulation
-[Event Listener](./javascript-101/dom-manipulation/event-listener.md) - 
-[Inserting](./javascript-101/dom-manipulation/insertation.md) - 
-[Local Storage](./javascript-101/dom-manipulation/local-storage.md) - 
-[Selection](./javascript-101/dom-manipulation/selection.md)
+# Authors
 
-#### Functions
-[Functions 101](./javascript-101/dom-manipulation/functions-101.md) - 
-[Functions Scope](./javascript-101/dom-manipulation/functions-101.md) - 
-[Functions With Arguments](./javascript-101/dom-manipulation/functions-101.md)
-
-#### Logic Gates & Conditional Operators
-[AND - OR - NOT](./javascript-101/logic-gates-conditional/and-or-not-statements.md) - 
-[DOM Manipluation](./javascript-101/logic-gates-conditional/dom-manipulation.md) - 
-[IF - ELSE](./javascript-101/logic-gates-conditional/if-else-statements) - 
-[Operators](./javascript-101/logic-gates-conditional/operators) - 
-[Tenary Operators](./javascript-101/logic-gates-conditional/ternary-operator) - 
-[Truthy Falsy](./javascript-101/logic-gates-conditional/truthy-falsy)
-
-#### Misc
-
-[Currying](./javascript-101/misc/currying.md) - 
-[JSON Stringify](./javascript-101/misc/json-stringify-and-parse.md) - 
-[Rest Parameters & Spread](./javascript-101/misc/rest-parameters-and-spread.md) - 
-[Scope](./javascript-101/misc/scope-101.md) - 
-[Strict Mode](./javascript-101/misc/strict-mode.md) - 
-[Try/Catch](./javascript-101/misc/strict-mode.md) - 
-[Strict Mode](./javascript-101/misc/strict-mode.md) - 
-[Type Coercion](./javascript-101/misc/type-coercion.md)
-
-#### Objects
-
-[Objects 101](./javascript-101/objects/objects-101.md) - 
-[Object Methods](./javascript-101/objects/object-methods.md) - 
-[Object References](./objects/object-references.md) - 
-[Objects And Functions](./javascript-101/objects/objects-and-functions.md)
-
-#### Prototype And Object Oriented Design
-
-[Classes & Subclasses](./javascript-101/protoype-and-oo/classes-and-subclasses.md) - 
-[Closures & Lexical Scopes](./javascript-101/protoype-and-oo/closures-and-lexical-scopes.md) - 
-[Get & Set](./javascript-101/protoype-and-oo/get-set.md) - 
-[hasOwnProperty()](./javascript-101/protoype-and-oo/hasOwnProperty.md) - 
-[Prototype Chain](./javascript-101/protoype-and-oo/primitive-prototype-chain.md) - 
-[Prototype Declartion](./javascript-101/protoype-and-oo/prototype-declartion.md) - 
-[Public & Private properties](./javascript-101/protoype-and-oo/public-and-private-properties.md)
-
-### :floppy_disk: Code Samples
-
-#### Functional Programming
-
-[FP Toolkit](./javascript-101/functional-programming/examples.md)  
-
-#### Algorithims
-
-[Algorithims](./javascript-101/algorithims/algorithims.md) -
-[Binary Tree](./javascript-101/algorithims/binary-tree.md) -
-[GetCountries()](./javascript-101/api/get-country.md) -
-[GetIPLoction()](./javascript-101/api/Get-IP-Loction.md)
-
----
-[:arrow_up: BACK TO TOP](#getting-started)
-
----
-
-## React
-
-### 📖 Tutorials
-
--   [React Tutorials](docs/REACT-TUTORIALS.md) - A list of useful React tutorials  
-
-### :floppy_disk: Code Samples
-
-This project contains a number of single page applications written in React JS and Redux. Apps contain examples of using things like Redux, Webpack, Babel, Yarn, ES6/ES2015 Javascript syntax
-
-#### Tests
-
-[Writing A Test](./react-101/tests/writing-a-test.md)
-
-#### Examples
-
-[Hello World](./react-101/examples/hello-world.md) -
-[Creating a Higher Order Component](./react-101/examples/hoc.md)  -
-[Creating a Filterable Component ](./react-101/examples/filter-component.md) -
-[JSON Form](./react-101/examples/json-form.md) -
-[Redux 101](./react-101/examples/redux-101.md)
-
----
-[:arrow_up: BACK TO TOP](#getting-started)
-
-## Contributing
-Open an [issue](https://github.com/jondjones/ILoveJavascript/issues) or a [pull request](https://github.com/jondjones/ILoveJavascript) to suggest changes or additions.
-
-## Authors
 [Jon D Jones](http://www.jondjones.com)
 
-## License
-![Creative Commons Licence](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)   
+# License
+![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)   
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ⬆ back to top
 ---
